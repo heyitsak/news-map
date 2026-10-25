@@ -1,0 +1,12 @@
+name: 🚀 Feature Request
+description: Suggest an enhancement or new intelligence layer for NewsMap
+title: "feat: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: feature
+    attributes:
+      label: Feature Description
+      description: Describe your proposed feature.
+    validations:
+      required: true

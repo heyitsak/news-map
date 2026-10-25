@@ -1,5 +1,9 @@
 # 🌐 CyberNews Map — Interactive Global Intelligence Visualizer
 
+[![CI Verification](https://github.com/heyitsak/news-map/actions/workflows/ci.yml/badge.svg)](https://github.com/heyitsak/news-map/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
+[![React 19](https://img.shields.io/badge/React-19-blue?style=flat-square&logo=react)](package.json)
+
 An interactive cyberpunk-themed global news visualizer and geopolitical situational awareness terminal built with React 19, Vite, and React Simple Maps.
 
 ## ✨ Features
